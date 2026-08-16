@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=3998299,RESOLUTION=1920x1080
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled53@job-agencia-s02-ep10-b1/agencia-s02-ep10-b1/hls/index.m3u8
